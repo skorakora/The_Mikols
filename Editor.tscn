@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://dj241aliv2tl6"]
+
+[ext_resource type="Script" path="res://Editor.gd" id="1_vx7i3"]
+
+[node name="Node3D" type="Node3D"]
+script = ExtResource("1_vx7i3")
