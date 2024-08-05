@@ -1,3 +1,4 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1722843061
-icon.svg::CompressedTexture2D::7633825592828526840::1722843056::1722843062::1::::<><>::
+::res://::1722843318
+Editor.gd::GDScript::-1::1722843170::0::1::::<>Node3D<>::
+Editor.tscn::PackedScene::7848507083998441929::1722843178::0::1::::<><>::res://Editor.gd
